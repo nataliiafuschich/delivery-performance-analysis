@@ -47,3 +47,7 @@ See: `delivery_dashboard.pdf`
 
 ## Author
 Nataliia Fushchich  
+Junior Data Analyst  
+
+GitHub: https://github.com/nataliiafushchich
+LinkedIn: https://www.linkedin.com/in/nataliiafushchich/
